@@ -21,7 +21,7 @@ Apuntes, trabajos y proyectos de 4.º curso del doble grado en **Ingeniería Inf
 
 | Asignatura | Estado |
 |---|---|
-| [Hombre y Mundo Moderno](formacion-general/hombre-y-mundo-moderno/) | 🟡 Sartre, Freud y Nietzsche listos · Marx pendiente de diapositivas |
+| [Hombre y Mundo Moderno](formacion-general/hombre-y-mundo-moderno/) | 🟡 Apuntes de los 4 autores en Word · Marx pendiente de diapositivas |
 | [Doctrina Social de la Iglesia](formacion-general/doctrina-social-iglesia/) | ⏳ Sin material todavía |
 
 ## 🗂️ Convención
