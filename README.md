@@ -1,13 +1,41 @@
 # Cuarto de carrera · Informática + ADE
 
-Apuntes, trabajos y proyectos de 4.º curso, organizados por asignatura.
+Apuntes, trabajos y proyectos de 4.º curso del doble grado en **Ingeniería Informática** y **Administración y Dirección de Empresas**, organizados por grado y asignatura.
 
-## 📚 Asignaturas
+## 💻 Informática
 
-| Asignatura | Contenido | Estado |
-|---|---|---|
-| [Hombre y Mundo Moderno](hombre-y-mundo-moderno/) | Sartre, Freud, Nietzsche, Marx: desarrollos para el trabajo, chuletas para el parcial, apuntes | 🟡 Marx pendiente de diapositivas |
+| Asignatura | Estado |
+|---|---|
+| [Ingeniería del Software](informatica/ingenieria-del-software/) | ⏳ Sin material todavía |
+| [Seguridad Informática y Protección de Datos](informatica/seguridad-informatica-proteccion-datos/) | ⏳ Sin material todavía |
+| [Sistemas Web I](informatica/sistemas-web-i/) | ⏳ Prácticas en [Sistemas-Web-I](https://github.com/alejandravazcor/Sistemas-Web-I) |
 
-## 🗂️ Convención de carpetas
+## 📊 ADE
 
-Cada asignatura va en su carpeta (`nombre-en-minusculas-con-guiones/`), con su propio `README.md` como índice.
+| Asignatura | Estado |
+|---|---|
+| [Análisis de Estados Financieros](ade/analisis-estados-financieros/) | ⏳ Sin material todavía |
+| [Análisis Estratégico de la Empresa / Política Empresarial](ade/analisis-estrategico-politica-empresarial/) | ⏳ Sin material todavía |
+
+## 🎓 Formación general (común a toda la carrera)
+
+| Asignatura | Estado |
+|---|---|
+| [Hombre y Mundo Moderno](formacion-general/hombre-y-mundo-moderno/) | 🟡 Sartre, Freud y Nietzsche listos · Marx pendiente de diapositivas |
+| [Doctrina Social de la Iglesia](formacion-general/doctrina-social-iglesia/) | ⏳ Sin material todavía |
+
+## 🗂️ Convención
+
+```
+cuarto_carrera/
+├── informatica/<asignatura>/
+├── ade/<asignatura>/
+└── formacion-general/<asignatura>/
+        ├── README.md      índice y estado
+        ├── profesor/      material de clase
+        ├── apuntes/       mis apuntes y resúmenes
+        ├── trabajos/      entregas y prácticas
+        └── examenes/      estructura, modelos, chuletas
+```
+
+Carpetas y archivos en minúsculas y con guiones. Cada asignatura tiene su `README.md` como índice.
