@@ -6,14 +6,14 @@
 
 | Tema | Apuntes | Estado |
 |---|---|---|
-| 1. Gestión de la seguridad | [tema-1-gestion-seguridad.md](apuntes/tema-1-gestion-seguridad.md) | ✅ Completo (pendiente fusionar con GoodNotes) |
-| 1. Anexo 1 · Protección de datos (LOPD, RGPD, LOPD-GDD) | [tema-1-anexo-proteccion-datos.md](apuntes/tema-1-anexo-proteccion-datos.md) | ✅ Completo (pendiente fusionar con GoodNotes) |
-| 2. Criptografía | [tema-2-criptografia.md](apuntes/tema-2-criptografia.md) | ✅ Completo (pendiente fusionar con GoodNotes) |
-| 2. Anexo 1 · PKI con OpenSSL (HTTPS, TLS, X.509) | [tema-2-anexo-pki-openssl.md](apuntes/tema-2-anexo-pki-openssl.md) | ✅ Completo (pendiente fusionar con GoodNotes) |
+| 1. Gestión de la seguridad | [PDF](apuntes/tema-1-gestion-seguridad.pdf) · [Word](apuntes/tema-1-gestion-seguridad.docx) | ✅ Completo (pendiente fusionar con GoodNotes) |
+| 1. Anexo 1 · Protección de datos (LOPD, RGPD, LOPD-GDD) | [PDF](apuntes/tema-1-anexo-proteccion-datos.pdf) · [Word](apuntes/tema-1-anexo-proteccion-datos.docx) | ✅ Completo (pendiente fusionar con GoodNotes) |
+| 2. Criptografía | [PDF](apuntes/tema-2-criptografia.pdf) · [Word](apuntes/tema-2-criptografia.docx) | ✅ Completo (pendiente fusionar con GoodNotes) |
+| 2. Anexo 1 · PKI con OpenSSL (HTTPS, TLS, X.509) | [PDF](apuntes/tema-2-anexo-pki-openssl.pdf) · [Word](apuntes/tema-2-anexo-pki-openssl.docx) | ✅ Completo (pendiente fusionar con GoodNotes) |
 | 3. Vulnerabilidades | — | ⏳ Pendiente |
 | 4. Anexo 2 · VPN con OpenVPN | — | ⏳ Pendiente |
 
-Cada tema incluye tablas resumen, ejemplos numéricos comprobados y preguntas de repaso con soluciones.
+Cada tema está en **PDF** (para imprimir) y **Word** (para editar o copiar). Incluyen tablas resumen, ejemplos numéricos comprobados y preguntas de repaso con soluciones.
 
 ## 🧪 Prácticas
 
