@@ -7,7 +7,7 @@ Apuntes, trabajos y proyectos de 4.º curso del doble grado en **Ingeniería Inf
 | Asignatura | Estado |
 |---|---|
 | [Ingeniería del Software](informatica/ingenieria-del-software/) | ⏳ Sin material todavía |
-| [Seguridad Informática y Protección de Datos](informatica/seguridad-informatica-proteccion-datos/) | 🟡 Apuntes temas 1 y 2 · temas 3–4 pendientes |
+| [Seguridad Informática y Protección de Datos](informatica/seguridad-informatica-proteccion-datos/) | 🟡 Apuntes temas 1–3 · tema 4 pendiente |
 | [Sistemas Web I](informatica/sistemas-web-i/) | ⏳ Prácticas en [Sistemas-Web-I](https://github.com/alejandravazcor/Sistemas-Web-I) |
 
 ## 📊 ADE
